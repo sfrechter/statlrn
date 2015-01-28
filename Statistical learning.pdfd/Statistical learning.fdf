@@ -8,8 +8,20 @@ endobj
 endobj
 4 0 obj<</Type/Annot/Subtype/Highlight/Rect[58.080000 94.227667 378.134665 103.174082]/Page 15/F 4/C[0.999424 0.985554 0.000000]/BS<</W 0.0>>/Contents(The Wage data involves predicting a continuous or quantitative output value)/M(D:20150128233319Z00'00')/QuadPoints[58.080000 103.174082 378.134665 103.174082 58.080000 94.227667 378.134665 94.227667 ]>>
 endobj
-5 0 obj<</FDF<</Annots[1 0 R 2 0 R 3 0 R 4 0 R ]/F(Statistical learning.pdf)/ID[<05287ca7148cc369923b56f54a85eadd><bc6a4e1ab8684440a59685b8b1edfb08>]>>>>
+5 0 obj<</Type/Annot/Subtype/Highlight/Rect[335.762731 70.357277 380.782725 79.293730]/Page 15/F 4/C[0.999424 0.985554 0.000000]/BS<</W 0.0>>/Contents(categorical)/M(D:20150128233716Z00'00')/QuadPoints[335.762731 79.293730 380.782725 79.293730 335.762731 70.357277 380.782725 70.357277 ]>>
+endobj
+6 0 obj<</Type/Annot/Subtype/Highlight/Rect[58.080000 380.907667 114.736310 389.854082]/Page 16/F 4/C[0.999424 0.985554 0.000000]/BS<</W 0.0>>/Contents(or qualitative)/M(D:20150128233725Z00'00')/QuadPoints[58.080000 389.854082 114.736310 389.854082 58.080000 380.907667 114.736310 380.907667 ]>>
+endobj
+7 0 obj<</Type/Annot/Subtype/Highlight/Rect[58.080038 333.027715 380.831417 353.974082]/Page 16/F 4/C[0.999424 0.985554 0.000000]/BS<</W 0.0>>/Contents(The goal is to predict whether the index will increase or decrease)/M(D:20150128233741Z00'00')/QuadPoints[204.240347 353.974082 380.831417 353.974082 204.240347 345.027667 380.831417 345.027667 58.080038 341.974130 163.102779 341.974130 58.080038 333.027715 163.102779 333.027715 ]>>
+endobj
+8 0 obj<</Type/Annot/Subtype/Highlight/Rect[58.080000 321.387363 381.081440 366.214082]/Page 17/F 4/C[0.999424 0.985554 0.000000]/BS<</W 0.0>>/Contents(The previous two applications illustrate data sets with both input and output variables. However, another important class of problems involves situations in which we only observe input variables, with no corresponding output)/M(D:20150128233850Z00'00')/QuadPoints[58.080000 366.214082 380.793521 366.214082 58.080000 357.267667 380.793521 357.267667 58.080000 354.214130 381.071477 354.214130 58.080000 345.267715 381.071477 345.267715 58.080000 342.333730 381.081440 342.333730 58.080000 333.387315 381.081440 333.387315 58.080000 330.333778 87.417864 330.333778 58.080000 321.387363 87.417864 321.387363 ]>>
+endobj
+9 0 obj<</Type/Annot/Subtype/Highlight/Rect[58.080000 273.626659 141.011671 282.573074]/Page 17/F 4/C[0.999424 0.985554 0.000000]/BS<</W 0.0>>/Contents(clustering problem.)/M(D:20150128233906Z00'00')/QuadPoints[58.080000 282.573074 141.011671 282.573074 58.080000 273.626659 141.011671 273.626659 ]>>
+endobj
+10 0 obj<</Type/Annot/Subtype/Highlight/Rect[93.376318 118.107715 280.541692 127.054130]/Page 17/F 4/C[0.999424 0.985554 0.000000]/BS<</W 0.0>>/Contents(first two principal components of the data)/M(D:20150128234122Z00'00')/QuadPoints[93.376318 127.054130 280.541692 127.054130 93.376318 118.107715 280.541692 118.107715 ]>>
+endobj
+11 0 obj<</FDF<</Annots[1 0 R 2 0 R 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ]/F(Statistical learning.pdf)/ID[<05287ca7148cc369923b56f54a85eadd><bc6a4e1ab8684440a59685b8b1edfb08>]>>>>
 endobj
 trailer
-<</Root 5 0 R>>
+<</Root 11 0 R>>
 %%EOF

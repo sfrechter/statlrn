@@ -10,3 +10,21 @@ unsupervised
 * Highlight, page 2
 The Wage data involves predicting a continuous or quantitative output value
 
+* Highlight, page 2
+categorical
+
+* Highlight, page 3
+or qualitative
+
+* Highlight, page 3
+The goal is to predict whether the index will increase or decrease
+
+* Highlight, page 4
+The previous two applications illustrate data sets with both input and output variables. However, another important class of problems involves situations in which we only observe input variables, with no corresponding output
+
+* Highlight, page 4
+clustering problem.
+
+* Highlight, page 4
+first two principal components of the data
+
