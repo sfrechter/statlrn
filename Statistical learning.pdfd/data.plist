@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowsCopying</key>
+	<true/>
+	<key>AllowsPrinting</key>
+	<true/>
+	<key>CreationDate</key>
+	<date>2014-05-15T09:11:46Z</date>
+	<key>Creator</key>
+	<string>dvips(k) 5.99 Copyright 2010 Radical Eye Software</string>
+	<key>Encrypted</key>
+	<false/>
+	<key>FileName</key>
+	<string>Statistical learning.pdfd</string>
+	<key>FileSize</key>
+	<string>9.5 MB (9,961,006 bytes)</string>
+	<key>LogicalSize</key>
+	<integer>9961006</integer>
+	<key>ModDate</key>
+	<date>2014-05-15T10:08:35Z</date>
+	<key>PageCount</key>
+	<integer>440</integer>
+	<key>PageHeight</key>
+	<real>666.14999999999998</real>
+	<key>PageSize</key>
+	<string>15.5 x 23.5 cm</string>
+	<key>PageWidth</key>
+	<real>439.36000000000001</real>
+	<key>PhysicalSize</key>
+	<integer>9977856</integer>
+	<key>Producer</key>
+	<string>Acrobat Distiller 9.4.5 (Windows)</string>
+	<key>Rating</key>
+	<real>0.0</real>
+	<key>Tags</key>
+	<array/>
+	<key>Title</key>
+	<string>Driver.dvi</string>
+	<key>Version</key>
+	<string>1.6</string>
+</dict>
+</plist>

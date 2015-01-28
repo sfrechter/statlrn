@@ -1,0 +1,12 @@
+* Highlight, page 1
+supervised or unsupervised
+
+* Highlight, page 1
+supervised
+
+* Highlight, page 1
+unsupervised
+
+* Highlight, page 2
+The Wage data involves predicting a continuous or quantitative output value
+
